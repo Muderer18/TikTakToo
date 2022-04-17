@@ -1,5 +1,3 @@
-# TikTakToo
-
 ## Goal
 
 Win The Match.
